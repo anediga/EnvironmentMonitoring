@@ -31,7 +31,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone git@github.com:asediga/EnvironmentMonitoring.git
+git clone git@github.com:asediga/EnvironmentMonitoring.git](https://github.com/asediga/EnvironmentMonitoring.git
 cd your-repo
 Connect the Wio Terminal and required sensors.
 
