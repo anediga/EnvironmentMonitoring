@@ -27,15 +27,15 @@ Additional dependencies specified in the code
 
 # Installation
 
-Clone this repository:
+1. Clone this repository:
 
-bash
-Copy code
-git clone git@github.com:asediga/EnvironmentMonitoring.git
-cd your-repo
-Connect the Wio Terminal and required sensors.
+```bash
+git clone [https://github.com/your-username/your-repo.git](https://github.com/asediga/EnvironmentMonitoring.git)
+cd EnvironmentMonitoring.git
+```
+2. Connect the Wio Terminal and required sensors.
 
-Upload the code to your Wio Terminal.
+3. Upload the code to your Wio Terminal.
 
 # Usage
 Power up the Wio Terminal with connected sensors.
