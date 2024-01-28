@@ -38,7 +38,13 @@ cd EnvironmentMonitoring.git
 4. Install Arduiono IDE
 
 # Material List
-![image](https://github.com/asediga/EnvironmentMonitoring/assets/92961504/1255c270-9b35-406d-9993-0c6d33c0d2c5)
+https://www.seeedstudio.com/Grove-8-Channel-I2C-Hub-TCA9548A-p-4398.html
+https://www.seeedstudio.com/Grove-CO2-Temperature-Humidity-Sensor-SCD30-p-2911.html
+https://www.seeedstudio.com/Grove-Light-Color-Proximity-Sensor-TMG39931-p-2879.html
+https://www.seeedstudio.com/Grove-Laser-PM2-5-Sensor-HM3301.html
+
+![image](https://github.com/asediga/EnvironmentMonitoring/assets/92961504/579c947b-c504-4c85-a66a-d5a42c241494)
+
 
 # Prototype Design
 ![image](https://github.com/asediga/EnvironmentMonitoring/assets/92961504/42e19646-7537-4ba0-a4f5-518f43603f83)
