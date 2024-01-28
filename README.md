@@ -15,7 +15,7 @@ License
 Introduction
 This project utilizes Seeed Studio's Wio Terminal and various sensors to monitor air quality. It provides real-time data on dust concentration, carbon dioxide levels, temperature, humidity, and proximity.
 
-Features
+#Features
 Real-time monitoring of dust concentration, carbon dioxide levels, temperature, humidity, and proximity.
 Integration with Seeed Studio sensors, including HM330 for dust, SCD30 for CO2, and TMG3993 for proximity and ambient light.
 Requirements
