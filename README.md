@@ -37,6 +37,11 @@ cd EnvironmentMonitoring.git
 3. Upload the code to your Wio Terminal.
 4. Install Arduiono IDE
 
+# Material List
+
+# Prototype Design
+![image](https://github.com/asediga/EnvironmentMonitoring/assets/92961504/42e19646-7537-4ba0-a4f5-518f43603f83)
+
 # Usage
 1. Power up the Wio Terminal with connected sensors by  Connect Wio Terminal to a USB port on your computer
 4. Open the Arduino Serial Monitor to view real-time sensor data.
