@@ -58,6 +58,8 @@ cd EnvironmentMonitoring.git
 5. Customize the code or sensor connections based on your requirements.
 
 # Code
+
+'''cpp
 #include "TCA9548A.h"
 #include "Seeed_TMG3993.h"
 #include "SCD30.h"
@@ -224,8 +226,8 @@ void loop() {
   delay(1000);
 }
 
-
 '''
+
 # Contributing
 Contributions are welcome! Feel free to submit bug reports, feature requests, or contribute code. Please follow our contribution guidelines.
 
