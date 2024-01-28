@@ -38,6 +38,7 @@ cd EnvironmentMonitoring.git
 4. Install Arduiono IDE
 
 # Material List
+![image](https://github.com/asediga/EnvironmentMonitoring/assets/92961504/1255c270-9b35-406d-9993-0c6d33c0d2c5)
 
 # Prototype Design
 ![image](https://github.com/asediga/EnvironmentMonitoring/assets/92961504/42e19646-7537-4ba0-a4f5-518f43603f83)
