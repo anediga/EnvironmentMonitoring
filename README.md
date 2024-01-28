@@ -49,6 +49,7 @@ cd EnvironmentMonitoring.git
 
 
 # Prototype Design
+<note> O2 sensor though seen in this diagram , was later removed from the code in this repo 
 ![image](https://github.com/asediga/EnvironmentMonitoring/assets/92961504/42e19646-7537-4ba0-a4f5-518f43603f83)
 
 # Usage
