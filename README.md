@@ -52,6 +52,10 @@ cd EnvironmentMonitoring.git
 <note> O2 sensor though seen in this diagram , was later removed from the code in this repo 
 ![image](https://github.com/asediga/EnvironmentMonitoring/assets/92961504/42e19646-7537-4ba0-a4f5-518f43603f83)
 
+# Prototype In Action
+
+![WhatsApp Image 2024-01-28 at 20 32 44_502df18e](https://github.com/asediga/EnvironmentMonitoring/assets/92961504/2dd75dc0-1140-4aed-9573-f3c399d724f8)
+
 # Usage
 1. Power up the Wio Terminal with connected sensors by  Connect Wio Terminal to a USB port on your computer
 4. Launch Arduino IDE
